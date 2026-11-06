@@ -1,16 +1,17 @@
-## Hi there 👋
+# 안녕하세요, 이민준입니다 👋
 
-<!--
-**kimlmrrrrr-sketch/kimlmrrrrr-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 주니어 개발자 | Junior Engineer
 
-Here are some ideas to get you started:
+깔끔하고 읽기 쉬운 코드를 바탕으로 웹 애플리케이션을 만들고 있습니다.  
+새로운 것을 꾸준히 배우며 함께 성장할 주니어 개발자 포지션을 찾고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 기술 스택
+
+- **언어:** JavaScript, HTML5, CSS3
+- **프론트엔드:** React
+- **백엔드:** Node.js
+- **도구:** Git
+
+## 💼 현재
+
+주니어 개발자 포지션을 찾고 있습니다. 좋은 제품과 팀을 만나 함께 성장하고 싶습니다.
